@@ -1,5 +1,11 @@
 # Canva REST API + Streamlit Starter
 
+# Considerations 
+
+-Takes time to set up 
+-Troubleshooting API and authentication
+-Half a day job maybe 
+
 This repo contains a minimal Streamlit app that demonstrates:
 
 - Canva OAuth authorization code flow
