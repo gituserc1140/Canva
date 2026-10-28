@@ -5,6 +5,7 @@
 -Takes time to set up 
 -Troubleshooting API and authentication
 -Half a day job maybe 
+-Can use Canva in app - via chatgpt - Claude integrations combined with ffempeg for animations - might be easier than Streamlit + canva API combination
 
 This repo contains a minimal Streamlit app that demonstrates:
 
