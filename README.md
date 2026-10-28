@@ -1,6 +1,6 @@
 # Canva REST API + Streamlit Starter
 
-# Considerations 
+# Considerations - please read
 
 -Takes time to set up 
 -Troubleshooting API and authentication
